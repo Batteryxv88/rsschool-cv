@@ -1,1 +1,1 @@
-https://batteryxv88.github.io/rsschool-cv/cv
+https://batteryxv88.github.io/rsschool-cv/
