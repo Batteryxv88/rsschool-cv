@@ -44,7 +44,6 @@ function smash (words) {
     - link: https://github.com/Batteryxv88/mesto
   - RS Schools «JavaScript/Front-end. Stage 0» (in progress)
 
-===
 
 ### English:
 
